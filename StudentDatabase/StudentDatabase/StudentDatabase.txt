@@ -1,0 +1,3 @@
+A1111111, Richard Swanson, E, 3.30,
+A1234567, Amy Stonewall, S, 3.87,
+A7654321, Tom Haverford, C, 2.30,
